@@ -1,7 +1,7 @@
 ## About This Folder
 
 Practice repository for learning HTML And CSS Basics and practice with the help of various resources like
-freecodecamp, Youtube lessons of Nicholas Jackson and Medium.
+freecodecamp, Youtube lessons of John Smilga. and Medium.
 
 ### Technologies Used
 1. HTML
